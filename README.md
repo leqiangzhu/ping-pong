@@ -1,4 +1,4 @@
-# Ping-Pong - Meria thomas
+# Ping-Pong
 
 ##### Epicodus Independent Project C# Week 3 - 09/24/2018.
 
@@ -6,7 +6,7 @@
 
 1. Clone this repository:
 ```
-    $ git clone https://github.com/meriat/HairSalon.Solution
+    
 ```
 2. Change into the work directory::
 ```
